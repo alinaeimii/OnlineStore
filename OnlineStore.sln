@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Infrastructure"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{75BF3782-5191-4432-A80C-05180208A0AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore", "OnlineStore\OnlineStore.csproj", "{0861CA07-8664-430A-8EC8-6803654B500B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Test", "OnlineStore\OnlineStore.Test.csproj", "{0861CA07-8664-430A-8EC8-6803654B500B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

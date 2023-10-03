@@ -10,7 +10,7 @@ using OnlineStore.Infrastructure.Data;
 using OnlineStore.Infrastructure.Repositories;
 using Xunit;
 
-namespace OnlineStore;
+namespace OnlineStore.Test;
 public class ProductControllerTest
 {
 
